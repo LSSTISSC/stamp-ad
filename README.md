@@ -1,5 +1,11 @@
 # stamps-ad
 
+### Anomaly detection with image stamps
+
+**WIP**, nothing is implemented yet.
+
+This project is dedicated to create anomaly detection pipeline to work with LSST stamps data. The project is run by LSST ISSC Anomaly detection interest group.
+
 [![Template](https://img.shields.io/badge/Template-LINCC%20Frameworks%20Python%20Project%20Template-brightgreen)](https://lincc-ppt.readthedocs.io/en/latest/)
 
 [![PyPI](https://img.shields.io/pypi/v/stamps-ad?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/stamps-ad/)
